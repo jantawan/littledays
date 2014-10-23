@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /littledays
+exclude: ['READEME.md']
